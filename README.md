@@ -20,3 +20,5 @@
 | 慈 | 26＊＊＊＊＊＊26 | [strayberry777](https://github.com/strayberry777) |
 | 达 | 24＊＊＊＊＊＊07 | [Peida-Lee](https://github.com/Peida-Lee) |
 | 源 | 26＊＊＊＊＊＊44 | [Lumyturn](https://github.com/Lumyturn) |
+| 霏 | 23＊＊＊＊＊＊42 | [alittlehei](https://github.com/alittlehei) |
+| 欢 | 24＊＊＊＊＊＊63 | [tyoukan1994](https://github.com/tyoukan1994) |
