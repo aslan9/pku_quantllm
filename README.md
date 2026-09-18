@@ -17,3 +17,5 @@
 | 桓 | 24＊＊＊＊＊＊17 | [celestial-toymaker](https://github.com/celestial-toymaker) |
 | 昊 | 25＊＊＊＊＊＊58 | [XinghaoCui](https://github.com/XinghaoCui) |
 | 晟 | 23＊＊＊＊＊＊37 | [Suichopath111](https://github.com/Suichopath111) |
+| 慈 | 26＊＊＊＊＊＊26 | [strayberry777](https://github.com/strayberry777) |
+| 达 | 24＊＊＊＊＊＊07 | [Peida-Lee](https://github.com/Peida-Lee) |
