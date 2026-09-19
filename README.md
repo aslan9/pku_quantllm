@@ -22,3 +22,4 @@
 | 源 | 26＊＊＊＊＊＊44 | [Lumyturn](https://github.com/Lumyturn) |
 | 霏 | 23＊＊＊＊＊＊42 | [alittlehei](https://github.com/alittlehei) |
 | 欢 | 24＊＊＊＊＊＊63 | [tyoukan1994](https://github.com/tyoukan1994) |
+| 晓 | 26＊＊＊＊＊＊44 | [Chuboxiao](https://github.com/Chuboxiao) |
