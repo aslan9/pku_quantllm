@@ -23,3 +23,5 @@
 | 霏 | 23＊＊＊＊＊＊42 | [alittlehei](https://github.com/alittlehei) |
 | 欢 | 24＊＊＊＊＊＊63 | [tyoukan1994](https://github.com/tyoukan1994) |
 | 晓 | 26＊＊＊＊＊＊44 | [Chuboxiao](https://github.com/Chuboxiao) |
+| 宇 | 24＊＊＊＊＊＊53 | [QiyuZhang-new](https://github.com/QiyuZhang-new) |
+
