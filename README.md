@@ -11,7 +11,7 @@
 | 宇 | 24＊＊＊＊＊＊32 | [gry1024](https://github.com/gry1024) |
 | 涛 | 23＊＊＊＊＊＊89 | [mabucai](https://github.com/mabucai) |
 | 然 | 24＊＊＊＊＊＊08 | [Sallllly777](https://github.com/Sallllly777) |
-| 迈 | 未填写 | [Mai-Xu](https://github.com/Mai-Xu) |
+| 迈 | 24＊＊＊＊＊＊78 | [Mai-Xu](https://github.com/Mai-Xu) |
 | 琪 | 25＊＊＊＊＊＊47 | [Echooo-Brain](https://github.com/Echooo-Brain) |
 | 翀 | 24＊＊＊＊＊＊34 | 待补充（当前内容不是 GitHub 用户名） |
 | 桓 | 24＊＊＊＊＊＊17 | [celestial-toymaker](https://github.com/celestial-toymaker) |
@@ -23,3 +23,4 @@
 | 霏 | 23＊＊＊＊＊＊42 | [alittlehei](https://github.com/alittlehei) |
 | 欢 | 24＊＊＊＊＊＊63 | [tyoukan1994](https://github.com/tyoukan1994) |
 | 晓 | 26＊＊＊＊＊＊44 | [Chuboxiao](https://github.com/Chuboxiao) |
+| 帆 | 23＊＊＊＊＊＊90 | [cupidisdead](https://github.com/cupidisdead) |
