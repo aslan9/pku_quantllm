@@ -24,3 +24,5 @@
 | 欢 | 24＊＊＊＊＊＊63 | [tyoukan1994](https://github.com/tyoukan1994) |
 | 晓 | 26＊＊＊＊＊＊44 | [Chuboxiao](https://github.com/Chuboxiao) |
 | 帆 | 23＊＊＊＊＊＊90 | [cupidisdead](https://github.com/cupidisdead) |
+| 凯 | 26＊＊＊＊＊＊18 | [ETAOIK](https://github.com/ETAOIK) |
+| 杰 | 24＊＊＊＊＊＊54 | [sog477](https://github.com/sog477) |
