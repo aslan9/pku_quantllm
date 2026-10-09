@@ -22,7 +22,7 @@
 | 然 | 24＊＊＊＊＊＊08 | [Sallllly777](https://github.com/Sallllly777) |
 | 迈 | 24＊＊＊＊＊＊78 | [Mai-Xu](https://github.com/Mai-Xu) |
 | 琪 | 25＊＊＊＊＊＊47 | [Echooo-Brain](https://github.com/Echooo-Brain) |
-| 翀 | 24＊＊＊＊＊＊34 | 待补充（当前内容不是 GitHub 用户名） |
+| 翀 | 24＊＊＊＊＊＊34 | [libichong](https://github.com/libichong) |
 | 桓 | 24＊＊＊＊＊＊17 | [celestial-toymaker](https://github.com/celestial-toymaker) |
 | 昊 | 25＊＊＊＊＊＊58 | [XinghaoCui](https://github.com/XinghaoCui) |
 | 晟 | 23＊＊＊＊＊＊37 | [Suichopath111](https://github.com/Suichopath111) |
