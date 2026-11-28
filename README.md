@@ -36,3 +36,4 @@
 | 19 | 杰 | 24＊＊＊＊＊＊54 | [sog477](https://github.com/sog477) |
 | 20 | 芸 | 26＊＊＊＊＊＊02 | [yun-lang-itzy](https://github.com/yun-lang-itzy) |
 | 21 | 宇 | 24＊＊＊＊＊＊53 | [QiyuZhang-new](https://github.com/QiyuZhang-new) |
+| 22 | 彬 | 25＊＊＊＊＊＊28 | [XieLubin](https://github.com/XieLubin) |
